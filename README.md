@@ -72,4 +72,4 @@ React · TypeScript · Vite · CSS · localStorage · Vitest
 
 ## Team
 
-Team name: **Frontier** (as shown in the registration view). Update this section with confirmed team member names before final submission.
+Team name: **Frontier** 
